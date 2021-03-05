@@ -1,4 +1,6 @@
 # MOB 1.1 - Final Project - Brain Training
+Built with Swift
+Created by Jennalyn Kabiling
 
 Final Project for Mobile 1.1, color matching game.
 Score points for matching the text to the color of the text
